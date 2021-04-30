@@ -7,9 +7,13 @@ The project explores Recursive Neural Networks (RNNs), APIs and deployent.
 ### Files in this Repository
 
 SageMaker Project.ipynb: a Jupyter Notebook with all the code
+
 report.html: an html version of the Jupyter Notebook
+
 train.py: training file required by SageMaker training job
+
 predict.py: prediction file to adapt Sagemaker's end-point to use pytorch model
+
 index.html: Website that consumes the final end-point
 
 ### Used Libraries
